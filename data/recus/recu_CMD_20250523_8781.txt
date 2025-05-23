@@ -1,0 +1,9 @@
+--- REÇU COMMANDE ---
+Numéro: CMD-20250523-8781
+Date: 2025-05-23 21:43:35
+Client: Samir Samir (ID: CLI-C9F1B778)
+Statut: Validée
+Produits:
+  - Iphone X13 x 70 @ 1999.00 MAD
+TOTAL: 139930.00 MAD
+-----------------------

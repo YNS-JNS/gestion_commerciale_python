@@ -1,9 +1,0 @@
---- REÇU COMMANDE ---
-Numéro: CMD-20250523-2E0E
-Date: 2025-05-23 19:56:07
-Client: Samir Samir (ID: CLI-1B17E4A0)
-Statut: Validée
-Produits:
-  - P01 x 100 @ 49.00€
-TOTAL: 4900.00€
------------------------
