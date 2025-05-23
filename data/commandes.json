@@ -1,0 +1,16 @@
+[
+    {
+        "numero_commande": "CMD-20250523-8781",
+        "date_creation": "2025-05-23 21:43:35",
+        "id_client": "CLI-C9F1B778",
+        "produits_commandes": [
+            {
+                "ref_produit": "PROD-541C05F6",
+                "quantite": 70,
+                "prix_vente": 1999.0
+            }
+        ],
+        "total": 139930.0,
+        "statut": "Validée"
+    }
+]
